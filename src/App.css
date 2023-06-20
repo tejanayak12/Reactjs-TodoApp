@@ -1,7 +1,12 @@
+body {
+  background-color: black;
+}
+
+
 .App {
   text-align: center;
   margin-top: 2rem;
-  background-color: aqua;
+  background-color: red;
 }
 
 .view{
@@ -21,7 +26,7 @@
 
 input[type='text'] {
   margin-right: 0.5rem;
-  background-color: chartreuse;
+  background-color: white;
 }
 
 button {
